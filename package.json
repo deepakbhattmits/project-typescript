@@ -1,0 +1,14 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/deepakbhattmits/typescript.git",
+  "author": "deepakbhattmits <deepakbhattmits@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
