@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "javascript.format.insertSpaceAfterSemicolonInForStatements": false,
+    "html.format.preserveNewLines": false,
+    "css.validate": false
+}
